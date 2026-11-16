@@ -1,7 +1,7 @@
 <!-- NX MATRIX · PIXEL EDITION -->
 <div align="center">
 
-<img src="assets/whatsapp-message-manager-pixel.png" alt="WhatsApp Message Manager Android pixel-art logo" width="100%" />
+<img src="assets/whatsapp-message-manager-pixel.png" alt="WhatsApp Message Manager Android pixel-art logo" width="25%" />
 
 # ░▒▓ WHATSAPP MESSAGE MANAGER ▓▒░
 ### ANDROID COMPANION · NX MATRIX
